@@ -12,14 +12,21 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v6
+
       - name: Setup Node.js
         uses: actions/setup-node@v6
         with:
           node-version: "22"
+
       - name: Install dependencies
         run: npm ci
-      - name: Build HTML presentation
+
+      - name: Build presentation in HTML
         run: npm run build-html
+
+      - name: Rename presentation file
+        run: mv ./dist/null-conditional-op.html ./dist/index.html
+
       - name: Upload slides for deployment
         uses: actions/upload-pages-artifact@v4
         with:
