@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "build-pdf": "marp --pdf ./src/presentation.md -o ./dist/null-conditional-op.pdf",
+    "build-html": "marp --html ./src/presentation.md -o ./dist/null-conditional-op.html"
+  },
+  "devDependencies": {
+    "@marp-team/marp-cli": "^4.2.3"
+  }
+}
