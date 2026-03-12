@@ -1,6 +1,5 @@
 ---
 marp: true
-class: invert
 paginate: true
 ---
 
