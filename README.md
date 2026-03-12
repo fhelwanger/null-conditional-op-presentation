@@ -6,6 +6,13 @@ A proposta não é desencorajar o uso do `?.`, mas mostrar como pequenas escolha
 
 A apresentação aborda semântica, performance, alternativas e boas práticas. Ela também apresenta uma linha de raciocínio que serve para outras tomadas de decisão durante o desenvolvimento.
 
+## Apresentação
+
+A versão HTML da apresentação é publicada via GitHub Pages e pode ser acessada em:
+
+https://fhelwanger.github.io/null-conditional-op-presentation/
+
+
 ## Build da apresentação
 
 Para o build, é necessário o [nodejs](https://nodejs.org/) v18+. Certifique-se de ter instalado as dependências:
