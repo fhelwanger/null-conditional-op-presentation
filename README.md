@@ -12,6 +12,9 @@ A versão HTML da apresentação é publicada via GitHub Pages e pode ser acessa
 
 https://fhelwanger.github.io/null-conditional-op-presentation/
 
+## Editando a apresentação
+
+Para editar a apresentação no VS Code, você pode utilizar a [extensão do Marp](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode). Abra o arquivo `src/presentation.md` e utilize o comando `Markdown: Open preview` para visualizar o resultado enquanto edita.
 
 ## Build da apresentação
 
