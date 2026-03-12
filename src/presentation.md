@@ -102,7 +102,7 @@ Usando o [sharplab](https://sharplab.io/#v2:CYLg1APgAgDABFAjAOgJIHkDcBYAUHqAZgQC
 
 # null-conditional operator
 
-Podemos usar novamente o [sharplab](https://sharplab.io/#v2:D4AQTAjAsAULIGYAE4kGEkG9ZNy5IALEgLIAUAlFjnrQG4CGATkgA5IC8SAdgKYDuSAAq8AzqID2DSjVq5sMOUqQA5CQFtenJACIAYrybcG3ACYSdAGlnLcACQlNmASwna+gh06ausqjVpcOl4Ahz4WAL7WisoRANywNrQgEACcZKwAdGqaFAkxSinprAD82QF5SXhVuEUZmV4uEuW5+bZ1pQ2OTWU5vJUFSBGww3AwiChgwmKSDNSDE0y8AI4Ars5LpigQAAz+mn4A5rwALnFIoqfno8nIS2sbvFuN4UgvvphIx2cXV0MjiXGBCm7zcCluSHu6022z2fSOf0uP1GoyAA===) para verificar o impacto de ficar colocando `?.` no código.
+Podemos usar novamente o [sharplab](https://sharplab.io/#v2:D4AQTAjAsAULIGYAE4kGEkG9ZN0gDgE4CWAbgIYAuApkgArUDOjA9uQU6+QNyw56IUAFiQBRCAAoAlFn54BEAJwT8nNgDoAciwC21Kbxjz5IJSrXkA/Ft37D8gL5ykzwSBGiw0rMbzOTZqrMGgASLITkJCw2egb+CspBXNZhEVHW2rH2eE5Gfnm4bh4I3pi+uPGFgRbqojpETOS1AHYAJtSE1ADG0WjEreTtMXaVKNXBVrX1nYyTom0d3SzWfQPtGbZxBUi5ufDIqAwTsttuEAAMSJm0ZQDm1JTcSIwPT7kmyHUNs2LTjT73R7PV47VzIVKRYgsJAQqIAkEvIG7PgwNxgGHhSHQ7CnA4XK62eFAxFvWB7VEHdFfGbsHEfMaXa5Ep4k0G4sQLTo9DntLnYpCAlkg5FwCkoKmcpYnemrQa0WXtZnApFklFo9D9OXSgR4xmEu4I4WqmBAA=) para verificar o impacto de ficar colocando `?.` no código.
 
 | Antes              | Depois                                      |
 | ------------------ | ------------------------------------------- |
