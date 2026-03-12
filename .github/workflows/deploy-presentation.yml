@@ -27,7 +27,7 @@ jobs:
       - name: Rename presentation file
         run: mv ./dist/null-conditional-op.html ./dist/index.html
 
-      - name: Upload slides for deployment
+      - name: Upload presentation for deployment
         uses: actions/upload-pages-artifact@v4
         with:
           path: ./dist
