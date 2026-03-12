@@ -127,7 +127,7 @@ Podemos usar novamente o [sharplab](https://sharplab.io/#v2:D4AQTAjAsAULIGYAE4kG
 
 ---
 
-# Resumo até aqui
+# :bookmark: Resumo até aqui
 
 - O operador faz com que o código precise se preocupar com valores nulos (propaga o nulo)
 - É muito fácil de "adicionar por garantia", afinal, "é apenas um caractere a mais", porém, isso tem um custo "escondido"
